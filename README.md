@@ -3,7 +3,8 @@
 
 
 - 🔭 I’m currently working as a intern in Research and Inovation in Bradesco
-- 🌱 I’m currently studiyng Python/Kotlin/JavaScript
+- :heart_eyes: I’m Fullstack developer focused NodeJS Applications
+- 🌱 I’m currently studiyng Python/JavaScript/Java
 
 <div align="center">
   <a href="https://github.com/gusgraujo">
