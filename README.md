@@ -1,10 +1,9 @@
 
-## Hi , I'm Gustavo Araujo. Nice to see you here ;D 
+## Hi , I'm Gustavo Araujo :brazil:	 . Nice to see you here ;D 
 
-
-- 🔭 I’m currently working as a intern in Research and Inovation in Bradesco
 - :heart_eyes: I’m Fullstack developer focused NodeJS Applications
-- 🌱 I’m currently studiyng Python/JavaScript/Java
+- 🔭 Researcher in subjects related to Web3
+- 🌱 I’m currently studiyng Python/JavaScript
 
 <div align="center">
   <a href="https://github.com/gusgraujo">
