@@ -3,7 +3,7 @@
 
 - :heart_eyes: I’m Fullstack developer focused NodeJS Applications
 - 🔭 Researcher in subjects related to Web3
-- 🌱 I’m currently studiyng Python/JavaScript
+- 🌱 I’m currently studiyng Solidity/JavaScript
 
 <div align="center">
   <a href="https://github.com/gusgraujo">
