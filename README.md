@@ -1,7 +1,7 @@
 
 ## Hi , I'm Gustavo Araujo :brazil:	 . Nice to see you here ;D 
 
-- :heart_eyes: I’m Fullstack developer focused NodeJS Applications
+- :heart_eyes: I’m Fullstack developer
 - 🔭 Researcher in subjects related to Web3
 - 🌱 I’m currently studiyng Solidity/JavaScript
 
