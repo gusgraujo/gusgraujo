@@ -4,7 +4,7 @@
 - :heart_eyes: I’m Back-end developer
 - 🔭 Researcher in subjects related to Web3
 - 💻 Check out some of my projects on my GitHub profile. I'm always looking for feedback and collaborators!
-- 🌱 I’m currently studiyng Java/Scala
+- 🌱 I’m currently studiyng Java/Scala/Kotlin
 
 <div align="center">
   <a href="https://github.com/gusgraujo">
